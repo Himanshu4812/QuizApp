@@ -2,7 +2,7 @@
 
 A responsive, interactive quiz web app built with HTML, CSS, and JavaScript that fetches live quiz questions from the OpenTDB API.
 
-![Demo Screenshot](./screenshot.png) 
+![Demo Screenshot](./img/screenshot.png) 
 
 ## 🚀 Live Demo
 
